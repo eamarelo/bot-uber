@@ -10,7 +10,7 @@ module.exports = class botUber {
     const callDestPosition = (query, callback) => {
       const destinations = [];
       const params = {
-        url: 'https://maps.googleapis.com/maps/api/geocode/json?address=paris+8&key=AIzaSyD_cHHLJDfVdhAMorhXUu_-CEJu9FcJGrc', 
+        url: 'https://maps.googleapis.com/maps/api/geocode/json?address=gare de Lyon&key=AIzaSyD_cHHLJDfVdhAMorhXUu_-CEJu9FcJGrc', 
         json: true
       }
 

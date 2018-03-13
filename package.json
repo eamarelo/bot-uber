@@ -1,5 +1,5 @@
 {
-  "name": "bot-uber",
+  "name": "bot-uberByEcho",
   "version": "1.0.0",
   "description": "bot uber ",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eamarelo/bot-uber.git"
+    "url": "git+https://github.com/eamarelo/bot-uberByEcho.git"
   },
   "author": "Elies AMARELO",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/eamarelo/bot-uber/issues"
+    "url": "https://github.com/eamarelo/bot-uberByEcho/issues"
   },
-  "homepage": "https://github.com/eamarelo/bot-uber#readme",
+  "homepage": "https://github.com/eamarelo/bot-uberByEcho#readme",
   "devDependencies": {
     "eslint": "^4.18.2"
   },
