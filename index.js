@@ -82,8 +82,5 @@ module.exports = class botUber {
   getJson () {
     return this.json;
   }
-  getIdVideo (i) {
-    return this.json.items[i].id.videoId;
-  }
 };
 
