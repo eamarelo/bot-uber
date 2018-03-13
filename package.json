@@ -1,6 +1,6 @@
 {
   "name": "bot-uberByEcho",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "bot uber ",
   "main": "index.js",
   "scripts": {
